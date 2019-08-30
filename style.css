@@ -1,0 +1,124 @@
+html, body {
+    font-family: Quantum;
+   
+    background-color: #d2d2d2;
+    margin; 0;
+}
+header{
+    background-color: #1d1d1b;
+    padding: 40px;
+    text-align: center;
+
+}
+header_2{
+    df
+}
+
+h1 {
+
+    font-size: 100px;
+    color: #b9b9b9;
+}
+
+h2  {
+    font-size:50px;
+}
+
+/* h3 {
+   font-size: 200px;
+   
+} */
+sup {
+    font-size:10px;
+    vertical-align: super;
+    font-style: italic;
+
+
+}
+
+header img{
+    border-radius: 90px;
+    width: 300px;
+    border-style: ridge;
+    box-shadow: 0 5px 20px #b9b9b9;
+
+}
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+img.james_bond_big_image {
+    background-blend-mode: inherit;
+    object-fit:fill;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+
+}
+
+p {
+    margin-top:0;
+    color: black;
+}
+
+ol{
+	padding: 0;
+	margin: 20px ;
+}
+p.Caption{
+
+    font-size: 16px;
+    color:lightslategray;
+    font-style: italic
+
+
+}
+
+img.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+ul {
+
+    list-style:none;
+    padding: 0;
+    margin:0;
+
+
+}
+
+a {
+    color:#CC3E3E;
+    padding: 0 00 15px;
+    text-align:left;
+    text-decoration-line: underline;
+
+}
+
+footer{
+    color: #b9b9b9;
+    padding:40px 20px;
+    background-color : #161616;
+
+}
+
+footer ul {
+    text-align: center;
+}
+footer a {
+    color: #b9b9b9;
+    text-decoration:underline;
+}
+
+footer ul li{
+    display: inline-block;
+    margin: 0 5px;
+  
+}
+
